@@ -1,0 +1,18 @@
+- Play against 10 people
+- Create the Deck/card generator 
+- Only texa's holdem?
+- Figure out what type of ML to use 
+
+Probabilties of Each Hand
+
+Royal Flush - 0.000154%	
+Straigh Flush - 0.00139%
+Four of a kind - 0.0240%
+Full House - 0.114%
+Flush - 0.1965%
+Striaght - 0.03925%
+Three of a kind - 2.1128% 
+Two pair - 4.7539%
+One pair - 42.25%
+No pair / High card - 50.1177%
+
