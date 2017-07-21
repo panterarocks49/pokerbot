@@ -1,8 +1,3 @@
-- Play against 10 people
-- Create the Deck/card generator 
-- Only texa's holdem?
-- Figure out what type of ML to use 
-
 Probabilties of Each Hand
 
 Royal Flush - 0.000154%	
