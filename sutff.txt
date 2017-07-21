@@ -16,3 +16,4 @@ Two pair - 4.7539%
 One pair - 42.25%
 No pair / High card - 50.1177%
 
+I think one person should work on buliding the card generator, then another person gets the bot able to understand what type of hand it has, and then the thrid will work on creating the neural net. 
